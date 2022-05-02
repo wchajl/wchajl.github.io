@@ -8,11 +8,11 @@ disableToc: "false"
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
 menuTitle: "searchEngines"
 # The title of the page in menu will be prefixed by this HTML content
-pre: ""
+pre: "<b>2.</b>"
 # The title of the page in menu will be postfixed by this HTML content
 post: ""
 # Set the page as a chapter, changing the way it's displayed
-chapter: true
+chapter: false
 # Hide a menu entry by setting this to true
 hidden: false
 # Display name of this page modifier. If set, it will be displayed in the footer.
